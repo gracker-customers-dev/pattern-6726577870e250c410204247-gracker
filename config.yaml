@@ -1,0 +1,63 @@
+projectName: How to Improve Payment Processing Efficiency for Retailers in <timeframe>
+jsonFilePath: ./input.json
+baseUrl: https://sift.com
+portalHeading: AI-Powered Fraud Decisioning
+portalDescription: >-
+  Our AI-powered fraud decisioning platform empowers businesses to expand
+  fearlessly and stop fraud without compromising trust.
+portalTitle: AI-Powered Fraud Decisioning
+searchPlaceholder: search for
+useAlphabetsCategory: true
+homeLink: https://sift.com/
+logoLink: https://sift.com/
+ctaText: Get Started
+aboutLink: https://sift.com/company
+productsLink: https://sift.com/platform
+logoImgUrl: https://sift.com/logo.png
+ctaLink: https://sift.com/demo
+copyrightText: >-
+  © 2024 Sift Science, Inc. All rights reserved. Sift and the Sift logo are
+  trademarks or registered trademarks of Sift Science, Inc.
+faviconUrl: https://sift.com/favicon.ico
+googleTagManagerId: GTM-PF53KPG
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: YouTube
+    url: https://www.youtube.com/@getsift
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/getsift/
+  - platform: Instagram
+    url: https://www.instagram.com/get_sift/
+  - platform: Twitter
+    url: https://twitter.com/GetSift
+  - platform: Facebook
+    url: https://www.facebook.com/GetSift/
+theme:
+  primaryColor: '#FF3B84'
+  secondaryColor: '#000000'
+  backgroundColor: '#F5F3F5'
+  textColor: '#000000'
+  accentColor: '#FF3B84'
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Titillium Web
+    weights:
+      - 400
+      - 600
+      - 700
